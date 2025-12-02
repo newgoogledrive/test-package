@@ -1,12 +1,12 @@
 {
   "name": "@newgoogledrive/test-package",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "test for auto",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "a"
   },
-  "author": "",
+  "author": "newnewgoogledrive",
   "license": "ISC",
   "dependencies": {
     "test-package": "^0.0.1"
