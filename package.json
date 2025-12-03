@@ -1,6 +1,6 @@
 {
   "name": "@newgoogledrive/test-package",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "test.",
   "main": "index.html",
   "files": [
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/newgoogledrive/test-package/issues"
   },
-  "homepage": "https://github.com/newgoogledrive/test-package#readme"
+  "homepage": "https://github.com/newgoogledrive/test-package#readme",
+  "dependencies": {
+    "test-package": "^0.0.1"
+  }
 }
