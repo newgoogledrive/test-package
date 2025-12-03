@@ -1,10 +1,9 @@
 {
-  "name": "@newgoogledrive/squeakjs-embed-kit",
-  "version": "1.1.4",
-  "description": "Easily embed SqueakJS in your website.",
+  "name": "@newgoogledrive/test-package",
+  "version": "1.0.5",
+  "description": "test.",
   "main": "index.html",
   "files": [
-    "squeakjs",
     "index.html"
   ],
   "publishConfig": {
