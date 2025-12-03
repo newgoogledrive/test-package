@@ -10,10 +10,10 @@
     "@newgoogledrive:registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
-    "squeakjs",
-    "embed",
+    "testing",
+    "package",
     "web",
-    "smalltalk"
+    "big test"
   ],
   "author": "7Locking/NewGoogleDrive",
   "license": "MIT",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newgoogledrive/SqueakJS-embed-kit.git"
+    "url": "git+https://github.com/newgoogledrive/test-package.git"
   },
   "bugs": {
-    "url": "https://github.com/newgoogledrive/SqueakJS-embed-kit/issues"
+    "url": "https://github.com/newgoogledrive/test-package/issues"
   },
-  "homepage": "https://github.com/newgoogledrive/SqueakJS-embed-kit#readme"
+  "homepage": "https://github.com/newgoogledrive/test-package#readme"
 }
